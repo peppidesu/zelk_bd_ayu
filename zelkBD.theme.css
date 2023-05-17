@@ -62,8 +62,8 @@
   /* background */
   --background-primary: var(--background-1);
   --background-primary-alt: var(--background-1);
-  --background-secondary: var(--background-1);
-  --background-secondary-alt: var(--background-1);
+  --background-secondary: var(--background-2);
+  --background-secondary-alt: var(--background-2);
   --background-tertiary: var(--background-2);
   --background-accent-gradient: var(--background-2);
   --background-floating: var(--background-1);
@@ -101,7 +101,7 @@
   --button-background-active: #313540;
   --button-accent: var(--accent-color);
   --button-accent-hover: #ffffff;
-  --button-accent-active: #ff8f40;
+  --button-accent-active: #59c2ff;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
   --button-destructive-active: #fa4a4a;
